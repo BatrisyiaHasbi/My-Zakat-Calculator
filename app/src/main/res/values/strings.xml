@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Zakat Calculator</string>
+    <string-array name="status">
+        <item>Keep</item>
+        <item>Wear</item>
+    </string-array>
+    <string name="copyright">CopyRight@KeluarkanZakatSebelumTerlambat</string>
+    <string name="About_text"><a href="https://github.com/BatrisyiaHasbi/My-Zakat-Calculator">Source Code Link</a></string>
+    <string name="developer1">NAME : NUR BATRISYIA HASBI BINTI HASMADI</string>
+    <string name="devId1">STUDENTS ID : 2020601748</string>
+    <string name="group">GROUP : D1CS2405A</string>
+    <string name="pcode">PROGRAM CODE : CS240</string>
+    <string name="stline">----------------------------------------------------------------</string>
+    <string name="developer2">NAME : NUR BATRISYIA HASBI BINTIHASMADI</string>
+    <string name="devId2">STUDENTS ID : 2020601748</string>
+</resources>
